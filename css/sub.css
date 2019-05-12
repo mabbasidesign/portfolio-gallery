@@ -1,0 +1,60 @@
+.masthead{
+}
+
+.masthead h1{
+    text-shadow: 0.6px 0.6px #111;
+    line-height: 4.4rem;
+    font-size: 3.4rem;
+}
+
+.portfolio-text{
+    margin-top: 2rem;
+    line-height: 2.2rem;
+    margin-bottom: 6rem;
+    color: #606060;
+}
+
+.btn-primary{
+    padding: 15px 20px;
+    border-radius: 0;
+}
+
+.gap{
+    height: 8em;
+    width: 100%;
+}
+
+.gap-btn{
+    height: 3em;
+    width: 100%;
+}
+
+.gap h1{
+    display: block;
+}
+
+#portfolio{
+    background: url("../img/bg.jpg");
+}
+
+#about{
+    background: #e8e4e5;
+}
+
+.form-control{
+    background: #111;
+    border-radius: 0;
+}
+
+.modal-body p{
+    font-size: 1.4rem;
+}
+
+.text-muted{
+    font-size: 1.4rem;
+}
+
+#footer{
+    background-color: #111;
+}
+
